@@ -17,4 +17,4 @@ Steps for program execution :
 Example execution command : 
 F:\Programming\Python\Template_Matching_OCR>  python python ocr_template_match.py --image F:\Programming\Python\Template_Matching_OCR\images\credit_01.png --reference F:\Programming\Python\Projects\Template_Matching_OCR\referenceImage.jpg
 
-SAMPLE VIDEO IS PROVIDED.
+SAMPLE VIDEO IS PROVIDED. (Download and watch it)
